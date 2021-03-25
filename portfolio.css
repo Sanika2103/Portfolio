@@ -1,0 +1,113 @@
+    .project-title {
+        font-size: 30px;
+        font-family: 'Times New Roman';
+        color: white;
+        padding: 40px 10px;
+        cursor: pointer;
+    }
+    
+    span {
+        color: rgb(245, 58, 95);
+    }
+    
+    title {
+        font-family: 'Times New Roman';
+    }
+    /*.main {
+        background-color: rgb(36, 32, 32);
+        background-image: url(office.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }*/
+    
+    .nav-item ul {
+        list-style: none;
+        float: right;
+        color: white;
+        margin: 20px 10px;
+    }
+    
+    .nav-item li {
+        display: inline-block;
+    }
+    
+    body {
+        background-color: rgb(29, 36, 36);
+    }
+    
+    .nav-item a {
+        text-decoration: none;
+        color: white;
+        padding: 20px 10px;
+        font-size: 20px;
+        font-weight: 300;
+        font-family: poppins;
+        display: inline-block;
+    }
+    
+    .nav-item a:hover {
+        border-radius: 8px;
+        color: rgb(121, 121, 238);
+    }
+    
+    .navbar {
+        display: flex;
+    }
+    
+    .pic {
+        height: 350px;
+        width: 350px;
+        background-color: black;
+        color: black;
+        align-items: center;
+        cursor: pointer;
+    }
+    
+    .btn {
+        width: 90px;
+        height: 50px;
+        font-size: medium;
+        font-weight: 200;
+        background-color: rgb(11, 68, 133);
+        color: white;
+        cursor: pointer;
+        box-shadow: 30px rgb(130, 225, 238);
+        border-radius: 8px;
+        border-width: 2px;
+        align-items: flex-end;
+    }
+    
+    .cat {
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        padding: 20px 10px;
+        padding-left: 100px;
+        font-family: Georgia, Times, serif;
+    }
+    
+    .project {
+        display: flex;
+        padding: 20px 10px;
+        margin-left: 100px;
+        text-align: center;
+        letter-spacing: 2px;
+    }
+    /*body {
+        background-image: url(office.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }*/
+    
+    .social {
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        color: rgb(31, 114, 173);
+    }
+    
+    .img {
+        color: white;
+        height: 45px;
+        width: 45px;
+        padding: 20px 10px 20px 10px;
+    }
